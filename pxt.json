@@ -1,5 +1,5 @@
 {
-    "name": "Trade Center",
+    "name": "run",
     "description": "",
     "dependencies": {
         "core": "*",
